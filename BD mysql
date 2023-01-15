@@ -15,4 +15,3 @@ COMMIT;
 END;
 $$
 DELIMITER ;
-
